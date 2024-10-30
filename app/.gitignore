@@ -1,0 +1,9 @@
+# Ignora todo
+*
+
+# Pero no ignores estos archivos y carpetas
+!.gitignore
+!**/*.java
+!**/*.xml
+!**/build.gradle
+!**/settings.gradle
