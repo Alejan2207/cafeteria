@@ -5,5 +5,8 @@
 !.gitignore
 !**/*.java
 !**/*.xml
-!**/build.gradle
-!**/settings.gradle
+!**/*.gradle
+!**/AndroidManifest.xml
+!**/src/main/java/
+!**/src/main/res/layout/
+!**/src/main/res/values/
