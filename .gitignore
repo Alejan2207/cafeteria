@@ -1,4 +1,3 @@
-
 # Ignora todo
 *
 
@@ -6,9 +5,7 @@
 !.gitignore
 !**/*.java
 !**/*.xml
-!**/*.gradle
 !**/AndroidManifest.xml
 !**/src/main/java/
 !**/src/main/res/layout/
 !**/src/main/res/values/
->>>>>>> e43340b (Commit inicial con archivos esenciales)
