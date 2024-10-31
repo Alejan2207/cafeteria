@@ -1,30 +1,14 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
 
 # Ignora todo
 *
 
-# Pero no ignores estos
+# Pero no ignores estos archivos y carpetas
 !.gitignore
-!*/.gitignore
-!*.java
-!*.xml
-!/app/src/main/
-!/app/src/main/java/
-!/app/src/main/res/
-!/app/src/main/res/layout/
-!/app/src/main/res/values/
-
+!**/*.java
+!**/*.xml
+!**/*.gradle
+!**/AndroidManifest.xml
+!**/src/main/java/
+!**/src/main/res/layout/
+!**/src/main/res/values/
+>>>>>>> e43340b (Commit inicial con archivos esenciales)
